@@ -1,6 +1,6 @@
 package pattern.creational.builder;
 /**
- * tel 같은 선택적인 값이 데해서 체인닝 형태로 정의
+ * tel 같은 선택적인 값은 체인닝 형태로 정의
  * 
  */
 public class WithMethodChaning {
